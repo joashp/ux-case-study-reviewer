@@ -2,6 +2,8 @@
 
 A skill that sharpens UX and product design case studies using named "prompt codes" (`/challenge`, `/hm`, `/why`, `/audit`, and so on). Each code is one specific critique or rewrite lens, so you get pointed feedback instead of a vague "here are some thoughts".
 
+<img width="800" height="500" alt="ux-case-study-reviewer-claude-skill" src="https://github.com/user-attachments/assets/71b3ece5-d18b-40fc-b974-9438c4611fc7" />
+
 ## Install
 
 ```bash
