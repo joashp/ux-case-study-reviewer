@@ -1,6 +1,6 @@
 # UX Case Study Reviewer: a Claude / Codex skill
 
-A skill that sharpens UX and product design case studies using named "prompt codes" (`/challenge`, `/hm`, `/why`, `/tight`, and so on). Each code is one specific critique or rewrite lens, so you get pointed feedback instead of a vague "here are some thoughts".
+A skill that sharpens UX and product design case studies using named "prompt codes" (`/challenge`, `/hm`, `/why`, `/audit`, and so on). Each code is one specific critique or rewrite lens, so you get pointed feedback instead of a vague "here are some thoughts".
 
 ## Install
 
